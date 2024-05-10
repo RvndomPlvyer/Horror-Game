@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/X9/8IUC18LX96LU350WIIEOAQ.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/BP_Door.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/QR/2DO3C46R9N03VAQKUS0DVA.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/31/380M7LEO2JOS28Q134NTFO.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/81/KPL0LZJVXIH3CKLK6DGI7Y.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/MariN/OneDrive/Escritorio/ProjectResident/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0N/NLRT7U9SJQFIGXALUOJZY3.uasset"
+			]
+		}
+	]
+}
